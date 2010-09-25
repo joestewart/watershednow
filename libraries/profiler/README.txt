@@ -1,4 +1,4 @@
-# $Id: README.txt,v 1.5 2010/09/07 19:21:09 yhahn Exp $
+# $Id: README.txt,v 1.6 2010/09/10 16:59:41 q0rban Exp $
 
 Profiler
 --------
@@ -157,6 +157,11 @@ modules to be included in your install profile are noted below.
         nodes[hello][title] = Hello world!
         nodes[hello][body] = Lorem ipsum dolor sit amet...
         nodes[hello][uid] = 1
+
+  - menu: To add the node to a menu
+
+        nodes[hello][menu][link_title] = Hello world!
+        nodes[hello][menu][menu_name] = secondary-links
 
 - `terms`
 

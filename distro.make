@@ -40,6 +40,46 @@ projects[wn_blog][type] = module
 projects[wn_blog][download][type] = git
 projects[wn_blog][download][url] = git://github.com/joestewart/wn_blog.git
 
+projects[wn_common][subdir] = features
+projects[wn_common][type] = module
+projects[wn_common][download][type] = git
+projects[wn_common][download][url] = git://github.com/joestewart/wn_common.git
+
+projects[wn_donations][subdir] = features
+projects[wn_donations][type] = module
+projects[wn_donations][download][type] = git
+projects[wn_donations][download][url] = git://github.com/joestewart/wn_donations.git
+
+projects[wn_events][subdir] = features
+projects[wn_events][type] = module
+projects[wn_events][download][type] = git
+projects[wn_events][download][url] = git://github.com/joestewart/wn_events.git
+
+projects[wn_hp_callout][subdir] = features
+projects[wn_hp_callout][type] = module
+projects[wn_hp_callout][download][type] = git
+projects[wn_hp_callout][download][url] = git://github.com/joestewart/wn_hp_callout.git
+
+projects[wn_hp_main][subdir] = features
+projects[wn_hp_main][type] = module
+projects[wn_hp_main][download][type] = git
+projects[wn_hp_main][download][url] = git://github.com/joestewart/wn_hp_main.git
+
+projects[wn_map][subdir] = features
+projects[wn_map][type] = module
+projects[wn_map][download][type] = git
+projects[wn_map][download][url] = git://github.com/joestewart/wn_map.git
+
+projects[wn_showcase][subdir] = features
+projects[wn_showcase][type] = module
+projects[wn_showcase][download][type] = git
+projects[wn_showcase][download][url] = git://github.com/joestewart/wn_showcase.git
+
+projects[wn_takeaction][subdir] = features
+projects[wn_takeaction][type] = module
+projects[wn_takeaction][download][type] = git
+projects[wn_takeaction][download][url] = git://github.com/joestewart/wn_takeaction.git
+
 ; Patched Contrib
 
 projects[simple_donations][subdir] = "contrib-patch"

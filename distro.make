@@ -82,6 +82,11 @@ projects[wn_takeaction][download][url] = git://github.com/joestewart/wn_takeacti
 
 ; Patched Contrib
 
+projects[signup][subdir] = "contrib-patch"
+projects[signup][version] = "2.x-dev"
+; http://drupal.org/node/824232
+projects[signup][patch][] = "http://drupal.org/files/issues/signup-824232.patch"
+
 projects[simple_donations][subdir] = "contrib-patch"
 ; ? projects[simple_donations][patch] = ""
 
@@ -175,8 +180,6 @@ projects[pathauto][subdir] = "contrib"
 projects[role_delegation][subdir] = "contrib"
 
 projects[search404][subdir] = "contrib"
-
-projects[signup][subdir] = "contrib"
 
 projects[strongarm][subdir] = "contrib"
 

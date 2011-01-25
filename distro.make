@@ -138,6 +138,7 @@ projects[filefield][subdir] = "contrib"
 projects[filefield_sources][subdir] = "contrib"
 
 projects[follow][subdir] = "contrib"
+projects[follow][version] = "1.x-dev"
 
 projects[galleryformatter][subdir] = "contrib"
 

@@ -96,10 +96,6 @@ projects[simple_payments][patch][] = "https://github.com/seanberto/watershednow/
 ; patch needs reroll? - --no-prefix?
 projects[simple_payments][patch][] = "https://github.com/seanberto/watershednow/raw/master/drupal/sites/all/modules/contrib-patch/simple_payments.payer_email.patch"
 
-projects[wysiwyg][subdir] = "contrib-patch"
-; patch doesn't apply - not created in module directory?
-projects[wysiwyg][patch][] = "http://drupal.org/files/issues/wysiwyg.1027434.patch"
-
 
 ; Contrib
 
@@ -202,6 +198,8 @@ projects[vs_webform][subdir] = "contrib"
 projects[vs_webform][version] = "1.x-dev"
 
 projects[webform][subdir] = "contrib"
+
+projects[wysiwyg][subdir] = "contrib"
 
 projects[wysiwyg_imagefield][subdir] = "contrib"
 

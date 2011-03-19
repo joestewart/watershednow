@@ -172,6 +172,8 @@ projects[openlayers_kml_layer][subdir] = "contrib"
 
 projects[openlayers_taxonomy][subdir] = "contrib"
 
+projects[page_title][subdir] = "contrib"
+
 projects[pathauto][subdir] = "contrib"
 
 projects[role_delegation][subdir] = "contrib"

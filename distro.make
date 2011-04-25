@@ -6,7 +6,7 @@ api = 2
 
 
 ; Download Drupal core or Pressflow
-projects[] = drupal
+projects[drupal][type] = core
 
 ; Download Pressflow core
 ; projects[pressflow][download][type] = "get"

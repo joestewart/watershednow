@@ -94,7 +94,7 @@ projects[simple_payments][subdir] = "contrib-patch"
 projects[simple_payments][patch][] = "https://github.com/seanberto/watershednow/raw/master/drupal/sites/all/modules/contrib-patch/simple_payments-869142-views-support.patch"
 ; projects[simple_payments][patch][] = "https://github.com/seanberto/watershednow/raw/master/drupal/sites/all/modules/contrib-patch/simple_payments-int_to_decimal-960616.patch"
 ; patch needs reroll? - --no-prefix?
-projects[simple_payments][patch][] = "https://github.com/seanberto/watershednow/raw/master/drupal/sites/all/modules/contrib-patch/simple_payments.payer_email.patch"
+; projects[simple_payments][patch][] = "https://github.com/seanberto/watershednow/raw/master/drupal/sites/all/modules/contrib-patch/simple_payments.payer_email.patch"
 
 
 ; Contrib

@@ -7,6 +7,8 @@
 core = 6.x
 api = 2
 
+projects[] = drupal
+
 ; Libraries
 
 libraries[install_profile_api][download][type] = "get"
